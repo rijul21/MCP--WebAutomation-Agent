@@ -9,6 +9,15 @@ A powerful AI-driven web automation agent that lets users control browser action
 - Interface built with Streamlit for easy interaction
 - Headless browser automation powered by Puppeteer
 
+## Tech Stack
+
+- **Python 3.9+** – Application logic and LLM integration
+- **Streamlit** – Frontend UI for user interaction
+- **OpenAI API** – Natural language understanding and command generation
+- **Node.js + Puppeteer** – Browser automation layer
+- **YAML** – Configuration management
+- **Logging** – Local logging for troubleshooting and audit
+
 ## How It Works
 
 1. **User Input**: A natural language instruction is provided through the Streamlit interface.
